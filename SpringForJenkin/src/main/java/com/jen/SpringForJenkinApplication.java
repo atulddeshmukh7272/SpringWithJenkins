@@ -8,7 +8,6 @@ public class SpringForJenkinApplication {
 
 	public static void main(String[] args) {
 		
-		
 		SpringApplication.run(SpringForJenkinApplication.class, args);
 	}
 
